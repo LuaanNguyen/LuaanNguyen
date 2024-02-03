@@ -1,4 +1,4 @@
-# 🏄‍♂️ Luan Nguyen
+# 👨‍💻 Luan Nguyen
 
 **`Digital Craftsman (Developer/Creator)`**
 
