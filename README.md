@@ -42,7 +42,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 <p>More projects are coming!</p>
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltnguy359&theme=dark&show_icons=true)
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=dark&show_icons=true)
 
 <details>
  <summary><h3>👨‍💻 Luan's Coding Journey</h3></summary>
