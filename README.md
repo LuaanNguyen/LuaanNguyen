@@ -1,10 +1,6 @@
 <image src ="https://i.imgur.com/39Cl07R.jpeg"></img>
 
-<h1 align="center"><strong>🍀 LUAN NGUYEN 🍀</strong></h1>
-
-- Apsiring Full-Stack Developer
-- Check out my <a href = "https://www.luannguyen.net/">Portfolio<a/>
-- Co-Founder/ CEO of <a href = "https://webdevils.club/">Web Devils<a/>
+<!-- <h1 align="center"><strong>🍀 LUAN NGUYEN 🍀</strong></h1> -->
 
 
 
@@ -26,11 +22,14 @@
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
-<br>
 
 
+<br><br/>
 
 
+- Apsiring Full-Stack Developer
+- Check out my <a href = "https://www.luannguyen.net/">Portfolio<a/>
+- Co-Founder/ CEO of <a href = "https://webdevils.club/">Web Devils<a/>
 
 <!-- <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -46,9 +45,6 @@
          <img alt="total stars" title="Connect me on Handsake" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> -->
 
-
-
-<br>
 
 ### 📊 Stats
 
