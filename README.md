@@ -11,7 +11,7 @@ no packages are looking for funding
 found 0 vulnerabilities, only love <3
 ```
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <div align = "center" >
 <img align="left" alt="Java" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -34,9 +34,6 @@ found 0 vulnerabilities, only love <3
 </div>
 
 <br><br/>
-<br><br/>
-
-<div align="right"style="width:130%;padding-bottom:90%;position:absolute;"><iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100%" height="100%" style="position:relative;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7"></a></p>
 
 📝 Check out my <a href = "https://www.luannguyen.net/">Portfolio<a/>
 
@@ -44,7 +41,7 @@ found 0 vulnerabilities, only love <3
 
 🇻🇳 Vice-president of <a href = "https://www.instagram.com/asu_vinasu/">VinaSU<a/>
 
-### 📊 Stats
+## 📊 Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&layout=donut" alt="Luan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=light&show_icons=true" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
