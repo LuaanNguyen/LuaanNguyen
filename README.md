@@ -1,4 +1,4 @@
-<image src ="https://i.imgur.com/39Cl07R.jpeg"></img>
+<image src ="wallpaper-github.jpg"></img>
 
 `npm install positivity 🍀`
 
@@ -35,8 +35,6 @@ found 0 vulnerabilities, only love <3
 
 <br><br/>
 <br><br/>
-
-<div align="right"style="width:130%;padding-bottom:90%;position:absolute;"><iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100%" height="100%" style="position:relative;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7"></a></p>
 
 📝 Check out my <a href = "https://www.luannguyen.net/">Portfolio<a/>
 
