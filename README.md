@@ -1,4 +1,4 @@
-<image src ="wallpaper-github.jpg"></img>
+<img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9ucjZrZ3BhMHdtbnp1eXJwMnp3dzUzZWtqMHE5YjVhaWhleWJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzYPuOs45IDoA/giphy.webp" alt="Coder GIF" width="500"></img>
 
 
 <!--
