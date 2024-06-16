@@ -1,3 +1,5 @@
+
+
 # Greetings 🍀
 
 ```JavaScript
@@ -8,6 +10,8 @@ let Luan = [
     "hobbies" = "Coding, Muay Thai/ Boxing, Fishing, Camping, Gym",
   }
 ]
+
+
 ```
 ### :briefcase: Credentials
 - Experience:
@@ -21,7 +25,7 @@ let Luan = [
   - Ex-VP at [VinaSU](https://www.instagram.com/asu_vinasu/)
 -----
 
-<div align="center"> <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9ucjZrZ3BhMHdtbnp1eXJwMnp3dzUzZWtqMHE5YjVhaWhleWJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzYPuOs45IDoA/giphy.webp" alt="Coder GIF" width="800"></img> </div>
+<div align="center"> <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9ucjZrZ3BhMHdtbnp1eXJwMnp3dzUzZWtqMHE5YjVhaWhleWJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzYPuOs45IDoA/giphy.webp" alt="Coder GIF" width="600"></img> </div>
 
 
 <!--
@@ -70,9 +74,9 @@ found 0 vulnerabilities, only love <3
 
 🇻🇳 Vice-president of <a href = "https://www.instagram.com/asu_vinasu/">VinaSU<a/>
 
+
 ## 📊 Stats
 
 | <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide_progress=true) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=light&show_icons=true" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 -->
