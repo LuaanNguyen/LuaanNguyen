@@ -1,3 +1,25 @@
+# Greetings 🍀
+
+```JavaScript
+let Luan = [
+  {
+    "name" = "Luan Nguyen",
+    "age" = "20",
+    "hobbies" = "Coding, Muay Thai/ Boxing, Fishing, Camping, Gym",
+  }
+]
+```
+### :briefcase: Credentials
+- Experience:
+  - Incoming Software Engineer Intern at [Ethical Spectacle Research](https://ethicalspectacle.com/) 
+  - Technology Consultant at ASU Enterprise Technology
+  - Ex-SWE Intern at [Pinear](https://www.linkedin.com/company/pinearllc/)
+  - Ex-Software Engineer Lead at [EPICS](https://www.linkedin.com/company/epics-at-asu/)
+  - Ex-Web Developer at [The Global Tech Experience](https://www.linkedin.com/company/the-global-tech-experience/)
+- Leadership:
+  - Technology Officer at [SoDA](https://thesoda.io/)
+  - Ex-VP at [VinaSU](https://www.instagram.com/asu_vinasu/)
+-----
 
 <div align="center"> <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9ucjZrZ3BhMHdtbnp1eXJwMnp3dzUzZWtqMHE5YjVhaWhleWJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzYPuOs45IDoA/giphy.webp" alt="Coder GIF" width="800"></img> </div>
 
