@@ -67,10 +67,11 @@ found 0 vulnerabilities, only love <3
 
 <br><br/>
 <br><br/>
--->
+
 
 ## 📊 Stats
+-->
 
-| <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide_progress=true) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=light&show_icons=true" /></a> |
+| <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide&_progress=true&show_icons=true&theme=ambient_gradient&layout=pie) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=ambient_gradient)| 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
