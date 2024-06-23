@@ -67,16 +67,10 @@ found 0 vulnerabilities, only love <3
 
 <br><br/>
 <br><br/>
-
-📝 Check out my <a href = "https://www.luannguyen.net/">Portfolio<a/>
-
-👨🏻‍💻 Co-Founder/ CEO of <a href = "https://webdevils.club/">Web Devils<a/>
-
-🇻🇳 Vice-president of <a href = "https://www.instagram.com/asu_vinasu/">VinaSU<a/>
-
+-->
 
 ## 📊 Stats
 
 | <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide_progress=true) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=light&show_icons=true" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
--->
+
