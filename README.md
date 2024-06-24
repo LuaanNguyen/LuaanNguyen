@@ -72,6 +72,17 @@ found 0 vulnerabilities, only love <3
 ## 📊 Stats
 -->
 
-| <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide&_progress=true&show_icons=true&theme=ambient_gradient&layout=pie) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=ambient_gradient)| 
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide&_progress=true&show_icons=true&theme=radical&layout=pie" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=LuaanNguyen&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
