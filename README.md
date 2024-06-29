@@ -75,12 +75,12 @@ found 0 vulnerabilities, only love <3
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide&_progress=true&show_icons=true&theme=radical&layout=pie" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide&_progress=true&show_icons=true&theme=flag-india&layout=pie" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=flag-india" alt="GitHub Stats" />
       <br />
-      <img src="https://streak-stats.demolab.com?user=LuaanNguyen&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=LuaanNguyen&theme=flag-india" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
