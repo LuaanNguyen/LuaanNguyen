@@ -72,10 +72,11 @@ found 0 vulnerabilities, only love <3
 ## 📊 Stats
 -->
 
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&hide&_progress=true&show_icons=true&theme=flag-india&layout=pie" alt="Top Langs" />
+      <img src="https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Aesthetic Anime GIF" width="350"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=flag-india" alt="GitHub Stats" />
