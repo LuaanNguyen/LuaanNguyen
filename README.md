@@ -1,50 +1,17 @@
+<p align="center">
+  <a href="https://github.com/LuaanNguyen">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=3000&pause=1000&color=1DB954&background=212121&center=true&vCenter=true&width=435&lines=Full-stack+Developer+and+UX%2FUI+Designer" alt="Typing SVG" /></a>
+</p>
+
 
 <!--
-# Greetings 🍀
+# 🧰 Languages and Tools
 
-```JavaScript
-let Luan = [
-  {
-    "name" = "Luan Nguyen",
-    "age" = "20",
-    "hobbies" = "Coding, Muay Thai/ Boxing, Fishing, Camping, Gym",
-  }
-]
-
-
-```
-### :briefcase: Credentials
-- Experience:
-  - Incoming Software Engineer Intern at [Ethical Spectacle Research](https://ethicalspectacle.com/) 
-  - Technology Consultant at ASU Enterprise Technology
-  - Ex-SWE Intern at [Pinear](https://www.linkedin.com/company/pinearllc/)
-  - Ex-Software Engineer Lead at [EPICS](https://www.linkedin.com/company/epics-at-asu/)
-  - Ex-Web Developer at [The Global Tech Experience](https://www.linkedin.com/company/the-global-tech-experience/)
-- Leadership:
-  - Technology Officer at [SoDA](https://thesoda.io/)
-  - Ex-VP at [VinaSU](https://www.instagram.com/asu_vinasu/)
------
-
-<div align="center"> <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9ucjZrZ3BhMHdtbnp1eXJwMnp3dzUzZWtqMHE5YjVhaWhleWJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzYPuOs45IDoA/giphy.webp" alt="Coder GIF" width="600"></img> </div>
-
-
-
-`npm install positivity 🍀`
-
-```
-up to date, audited 69 packages in 69 ms
-
-no packages are looking for funding
-  run `npm fund` for details
-
-found 0 vulnerabilities, only love <3
-```
-
-
-
-## 🧰 Languages and Tools
-
-<div align = "center" >
+<p align = "center" >
 <img align="left" alt="Java" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -61,19 +28,11 @@ found 0 vulnerabilities, only love <3
 <img align="left" alt="Bootstrap" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="jQuery" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-
-
-</div>
-
-<br><br/>
-<br><br/>
-
-
-## 📊 Stats
+</p>
 -->
 
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Aesthetic Anime GIF" width="350"/>
@@ -86,4 +45,5 @@ found 0 vulnerabilities, only love <3
   </tr>
 </table>
 
+[![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=212121&line=1db954&title_color=1db954&color=b3b3b3)](https://github.com/LuaanNguyen)
 
