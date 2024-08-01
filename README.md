@@ -10,21 +10,23 @@
   </a>
 </p>
 
+<!--
 <p align="center">
-  <a href="mailto:luanthiennguyen2003@gmail.com" style="margin: 0 10px;">
-    <img height="26" alt="Mail" src="img/gmail.png" />
+  <a href="mailto:luanthiennguyen2003@gmail.com" tyle="margin: 0 10px;">
+    <img height="32" alt="Mail" src="img/gmail.png" />
   </a>
   <a href="https://www.linkedin.com/in/luanthiennguyen/">
-    <img height="26" alt="LinkedIn" src="img/linkedin.png" style="margin: 0 10px;"/>
+    <img height="32" alt="LinkedIn" src="img/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/luannuen/">
-    <img height="26" alt="Dribbble" src="img/instagram.png" style="margin: 0 10px;"/>
+    <img height="32" alt="Instagram" src="img/instagram.png" />
   </a>
   <a href="https://www.luannguyen.net/">
-    <img height="26" alt="Personal" src="img/personal.png" style="margin: 0 10px;"/>
+    <img height="26" alt="Personal" src="img/personal.png" />
   </a>
 </p>
 
+-->
 ---
 
 <table align="center">
