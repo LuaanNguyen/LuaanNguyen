@@ -1,36 +1,31 @@
 <p align="center">
   <a href="https://github.com/LuaanNguyen">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=3000&pause=1000&color=1DB954&background=212121&center=true&vCenter=true&width=435&lines=Full-stack+Developer+and+UX%2FUI+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=3000&pause=1000&color=FF671F&background=212121&center=true&vCenter=true&width=435&lines=Full-stack+Developer+and+UX%2FUI+Designer" alt="Typing SVG" />
+  </a>
 </p>
 
-
-<!--
-# 🧰 Languages and Tools
-
-<p align = "center" >
-<img align="left" alt="Java" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="C" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="ExpressJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="jQuery" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+<p align="center">
+  <a href="mailto:luanthiennguyen2003@gmail.com" style="margin: 0 10px;">
+    <img height="26" alt="Mail" src="img/gmail.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/luanthiennguyen/">
+    <img height="26" alt="LinkedIn" src="img/linkedin.png" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/luannuen/">
+    <img height="26" alt="Dribbble" src="img/instagram.png" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.luannguyen.net/">
+    <img height="26" alt="Personal" src="img/personal.png" style="margin: 0 10px;"/>
+  </a>
 </p>
--->
 
+---
 
 <table align="center">
   <tr>
@@ -45,5 +40,4 @@
   </tr>
 </table>
 
-[![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=212121&line=1db954&title_color=1db954&color=b3b3b3)](https://github.com/LuaanNguyen)
-
+[![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=212121&line=1db954&title_color=1db954&color=FF671F)](https://github.com/LuaanNguyen)
