@@ -47,5 +47,5 @@
 
 ## Top repositories 🍳 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Mine-Alliance&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Board-Game-Cafe-Website&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats) 
+[![Mine Alliance](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Mine-Alliance&theme=flag-india)](https://github.com/LuaanNguyen/Mine-Alliance) 
+[![Board Game Cafe Website](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Board-Game-Cafe-Website&theme=flag-india)](https://github.com/LuaanNguyen/Board-Game-Cafe-Website) 
