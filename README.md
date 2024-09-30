@@ -32,8 +32,8 @@
 <table align="center">
   <tr>
     <td>
-<!--       <img src="https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Aesthetic Anime GIF" width="350"/> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&layout=pie&theme=flag-india" alt="Most Used Language" />
+      <img src="https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif" alt="Aesthetic Anime GIF" width="350"/> 
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanNguyen&layout=pie&theme=flag-india" alt="Most Used Language" /> -->
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=flag-india" alt="GitHub Stats" />
