@@ -45,7 +45,10 @@
 
 [![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=FFFFFF&line=1db954&title_color=1db954&color=FF671F)](https://github.com/LuaanNguyen)
 
+<!--  
 ## Top repositories 🍳 
 
 [![Mine Alliance](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Mine-Alliance&theme=flag-india)](https://github.com/LuaanNguyen/Mine-Alliance) 
 [![Board Game Cafe Website](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Board-Game-Cafe-Website&theme=flag-india)](https://github.com/LuaanNguyen/Board-Game-Cafe-Website) 
+
+-->
