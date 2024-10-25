@@ -1,4 +1,4 @@
-# Welcome to my Github 🪴
+<!-- # Welcome to my Github 🪴 -->
 <p align="center">
   <a href="https://github.com/LuaanNguyen">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" />
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-[![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=FFFFFF&line=1db954&title_color=1db954&color=FF671F)](https://github.com/LuaanNguyen)
+<!-- [![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=FFFFFF&line=1db954&title_color=1db954&color=FF671F)](https://github.com/LuaanNguyen) -->
 
 ## Featured Repos 🍳 
 [![Mine Alliance](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Mine-Alliance&theme=flag-india)](https://github.com/LuaanNguyen/Mine-Alliance) 
