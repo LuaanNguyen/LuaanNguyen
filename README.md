@@ -1,4 +1,17 @@
-<!-- # Welcome to my Github 🪴 -->
+### Hi there 👋
+
+Currently I am a software engineer at [ASU ECEE](https://ecee.engineering.asu.edu/).
+
+Here are my favorite technologies sorted by interest:
+
+- **Programming Language:** TypeScript, Golang, Python, C, C++, Java
+- **Backend Framework:** Gin (Golang), Express (TypeScript), Flask (Python) 
+- **Frontend Framework:** React (TypeScript), Svelte (TypeScript)
+- **Database Engine:** PostgreSQL, MySQL, Sqlite
+
+For more information, please visit https://www.luannguyen.net/ 
+
+<!-- # Welcome to my Github 🪴 
 <p align="center">
   <a href="https://github.com/LuaanNguyen">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&duration=4997&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Luan+Nguyen+" alt="Typing SVG" />
@@ -21,11 +34,13 @@
       <br />
   </tr>
 </table>
+-->
 
 <!-- [![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=FFFFFF&line=1db954&title_color=1db954&color=FF671F)](https://github.com/LuaanNguyen) -->
 
+<!--
 ## Featured Repos 🍳 
 [![Mine Alliance](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Mine-Alliance&theme=flag-india)](https://github.com/LuaanNguyen/Mine-Alliance) 
 [![Board Game Cafe Website](https://github-readme-stats.vercel.app/api/pin/?username=LuaanNguyen&repo=Board-Game-Cafe-Website&theme=flag-india)](https://github.com/LuaanNguyen/Board-Game-Cafe-Website) 
 
-
+-->
