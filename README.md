@@ -2,7 +2,7 @@
 
 Currently I am a software engineer at [ASU ECEE](https://ecee.engineering.asu.edu/).
 
-For more information, please visit https://www.luannguyen.net/ 
+
 
 Here are my favorite technologies sorted by interest:
 
@@ -10,6 +10,8 @@ Here are my favorite technologies sorted by interest:
 - **Backend Framework:** Gin (Golang), Express (TypeScript), Flask (Python) 
 - **Frontend Framework:** React (TypeScript), Svelte (TypeScript)
 - **Database Engine:** PostgreSQL, MySQL, Sqlite
+
+For more information, please visit https://www.luannguyen.net/ 
 
 
 <!--
