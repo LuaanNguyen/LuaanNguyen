@@ -1,18 +1,4 @@
- ### Hi there 👋
-
-Currently I am a software engineer at [ASU ECEE](https://ecee.engineering.asu.edu/).
-
-
-
-Here are my favorite technologies sorted by interest:
-
-- **Programming Language:** TypeScript, Golang, Python, C, C++, Java
-- **Backend Framework:** Gin (Golang), Express (TypeScript), Flask (Python) 
-- **Frontend Framework:** React (TypeScript), Svelte (TypeScript)
-- **Database Engine:** PostgreSQL, MySQL, Sqlite
-
-For more information, please visit https://www.luannguyen.net/ 
-
+<img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=flag-india" alt="GitHub Stats" />
 
 <!--
  # Welcome to my Github 🪴 
@@ -38,7 +24,7 @@ For more information, please visit https://www.luannguyen.net/
       <br />
   </tr>
 </table>
--->
+
 
 <!-- [![LuaanNguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuaanNguyen&bg_color=FFFFFF&line=1db954&title_color=1db954&color=FF671F)](https://github.com/LuaanNguyen) -->
 
