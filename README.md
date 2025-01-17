@@ -1,3 +1,11 @@
+### Hi, I'm Luan 👋
+
+- 🖥️ I've been coding in TypeScript as part of my work
+- 📚 I’m learning Golang at the moment
+- 🐦 You can connect with me on Linkedin [Luan Ng](https://www.linkedin.com/in/luanthiennguyen/)
+- 🎤 You can also checkout my portfolio at [luannguyen.net](https://www.luannguyen.net/)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=LuaanNguyen&show_icons=true&theme=flag-india" alt="GitHub Stats" />
 
 <!--
