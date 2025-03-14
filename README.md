@@ -1,8 +1,6 @@
 ### Hi, I'm Luan 🌱
 
-- 🖥️ I've been coding in TypeScript as part of my work
-- 📚 I’m learning Golang at the moment
-- 📫 You can email me at luanthiennguyen2003@gmail.com
+- 📚 I’m learning Golang and AWS at the moment
 
 <!--
 - 🐦 You can connect with me on Linkedin [Luan Ng](https://www.linkedin.com/in/luanthiennguyen/)
