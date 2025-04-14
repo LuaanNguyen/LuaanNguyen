@@ -1,6 +1,7 @@
 ### Hi, I'm Luan 🪴 
 - 💻 I am an incoming intern @ [AWS](https://aws.amazon.com/)
-- 📚 I’m learning Golang at the moment
+- 🌱 I'm currently working on [rateourclub.com](https://rateourclub.com/)
+- 📚 I’m learning GO during my free time
 ---
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=dark&show_icons=true)
 
