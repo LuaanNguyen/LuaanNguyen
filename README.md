@@ -1,5 +1,5 @@
 ### Hi, I'm Luan 🪴 
-- 💻 I am an incoming intern @ [AWS](https://aws.amazon.com/)
+- 💻 I am interning @ [AWS](https://aws.amazon.com/)
 - 🌱 I'm currently working on [rateourclub.com](https://rateourclub.com/)
 - 📚 I’m learning GO during my free time
 
@@ -7,6 +7,7 @@
 ---
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=LuaanNguyen&theme=dark&show_icons=true)
+
 <!--
 - 🐦 You can connect with me on Linkedin [Luan Ng](https://www.linkedin.com/in/luanthiennguyen/)
 - 🎤 You can also checkout my portfolio at [luannguyen.net](https://www.luannguyen.net/)
