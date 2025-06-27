@@ -1,6 +1,6 @@
 ### Hi, I'm Luan 🪴 
-- 💻 I am interning at [AWS](https://aws.amazon.com/)
-- 🌱 I'm currently working on [rateourclub.com](https://rateourclub.com/)
+- 💻 I'm interning at [AWS](https://aws.amazon.com/)
+- 🧪 I'm a lab member at [OpenAI](https://openai.com/)
 - 📚 I’m learning Go during my free time
 
 
