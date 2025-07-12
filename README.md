@@ -1,10 +1,4 @@
-### Hi, I'm Luan 🪴 
-- 💻 I'm interning at [AWS](https://aws.amazon.com/)
-- 🧪 I'm a lab member at [OpenAI](https://openai.com/)
-- 📚 I’m learning Go during my free time
 
-
----
 <p align="center">
 <a href="https://github.com/LuaanNguyen?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=LuaanNguyen&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Goblin's github-readme-stats"/></a>
 </p>
