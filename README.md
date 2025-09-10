@@ -1,9 +1,9 @@
-<!--
+
 <p align="center">
 <a href="https://github.com/LuaanNguyen?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=LuaanNguyen&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Goblin's github-readme-stats"/></a>
 </p>
 
-
+<!--
 - 🐦 You can connect with me on Linkedin [Luan Ng](https://www.linkedin.com/in/luanthiennguyen/)
 - 🎤 You can also checkout my portfolio at [luannguyen.net](https://www.luannguyen.net/)
 
